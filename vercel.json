@@ -1,3 +1,0 @@
-{
-  "rewrites": [{ "source": "/Companyprofilemaul/(.*)", "destination": "/index.html" }]
-}
